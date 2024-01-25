@@ -4,7 +4,7 @@
 #include "Game.hpp"
 #include "Hooking.hpp"
 #include "Menu.hpp"
-#include "feature.h"
+#include "../feature.h"
 
 namespace DX11_Base {
 	class D3D11Window
