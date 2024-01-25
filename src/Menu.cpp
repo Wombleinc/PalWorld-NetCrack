@@ -1,7 +1,7 @@
 #include "../pch.h"
 #include "../include/Menu.hpp"
-#include "SDK.hpp"
-#include "config.h"
+#include "../SDK.hpp"
+#include "../config.h"
 int InputTextCallback(ImGuiInputTextCallbackData* data) {
     char inputChar = data->EventChar;
 
